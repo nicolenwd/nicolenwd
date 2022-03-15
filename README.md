@@ -1,16 +1,26 @@
-### Hi there 👋
+# About Me 👋    
 
-<!--
-**nicolenwd/nicolenwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a graduate student in Columbia University's Quantitative Methods in Social Sciences program. My coursework focuses on Natural Language Processing, Machine Learning/Deep Learning, data analysis and databases. I am particularly interested in the application of Data Science to policy areas like social policy, healthcare and diplomacy.  
 
-Here are some ideas to get you started:
+- 👨🏽‍💻 Working on my thesis comparing sentiment towards COVID-19 restrictions in Singapore on Facebook vs Reddit
+- 🌱 Exploring deep learning with keras, database querying with MySQL and app development with Flask
+- 🤔 Looking for any tips on sentiment analysis with VADER or other ML models
+- ⚡ Fun fact: I'm a competitive ballroom and latin dancer!     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Technologies and Tools 🔧    
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataGrip-informational?style=flat&logo=DataGrip&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)    
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Spyder-informational?style=flat&logo=spyderide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+
+
+# Projects     
+[**wheregotcovid**](https://wheregotcovid.herokuapp.com/): Interactive R Shiny web app displaying maps and data of public places visited by COVID19 cases in Singapore in June 2021.    
