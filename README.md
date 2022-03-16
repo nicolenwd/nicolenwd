@@ -22,5 +22,5 @@ Hi, I'm a graduate student in Columbia University's Quantitative Methods in Soci
 ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 
-# Projects     
+# Projects💡     
 [**wheregotcovid**](https://wheregotcovid.herokuapp.com/): Interactive R Shiny web app displaying maps and data of public places visited by COVID19 cases in Singapore in June 2021.    
