@@ -1,10 +1,10 @@
 # About Me 👋    
 
-Hi, I'm a graduate student in Columbia University's Quantitative Methods in Social Sciences program. My coursework focuses on Natural Language Processing, Machine Learning/Deep Learning, data analysis and databases. I am particularly interested in the application of Data Science to policy areas like social policy, healthcare and diplomacy.  
+Hi, I'm a graduate student in social data science. My coursework focuses on Natural Language Processing, Machine Learning/Deep Learning, data analysis and databases. I am particularly interested in the application of Data Science to healthcare, education and other social policy areas. 
 
 - 👨🏽‍💻 Working on my thesis comparing sentiment towards COVID-19 restrictions in Singapore on Facebook vs Reddit
 - 🌱 Exploring deep learning with keras, database querying with MySQL and app development with Flask
-- 🤔 Looking for any tips on sentiment analysis with VADER or other ML models
+- 🤔 Looking for any tips on sentiment analysis with VADER or other ML models, especially for Singlish text
 - ⚡ Fun fact: I'm a competitive ballroom and latin dancer!     
 
 
@@ -17,9 +17,6 @@ Hi, I'm a graduate student in Columbia University's Quantitative Methods in Soci
 ![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)    
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Spyder-informational?style=flat&logo=spyderide&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 
 # Projects💡     
