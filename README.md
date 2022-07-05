@@ -13,9 +13,11 @@ Hi, I'm a graduate student in social data science. My coursework focuses on Natu
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataGrip-informational?style=flat&logo=DataGrip&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)    
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 
