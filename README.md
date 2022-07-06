@@ -1,6 +1,6 @@
 # About Me 👋    
 
-Hi, I'm a graduate student in social data science. My coursework focuses on Natural Language Processing, Machine Learning/Deep Learning, data analysis and databases. I am particularly interested in the application of Data Science to healthcare, education and other social policy areas. 
+Hi, I'm a graduate student in social data science. My coursework focuses on Natural Language Processing, Machine Learning/Deep Learning, data analysis and databases. I am particularly interested in the application of Data Science to social policy areas like healthcare and education.
 
 - 👨🏽‍💻 Working on my thesis comparing sentiment towards COVID-19 restrictions in Singapore on Facebook vs Reddit
 - 🌱 Exploring deep learning with keras, database querying with MySQL and app development with Flask
