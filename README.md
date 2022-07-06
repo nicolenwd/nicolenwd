@@ -22,4 +22,5 @@ Hi, I'm a graduate student in social data science. My coursework focuses on Natu
 
 
 # Projects💡     
-[**wheregotcovid**](https://wheregotcovid.herokuapp.com/): Interactive R Shiny web app displaying maps and data of public places visited by COVID19 cases in Singapore in June 2021.    
+- [**reddit-vs-fb**](https://github.com/nicolenwd/reddit-vs-fb): Comparative sentiment analysis of Facebook and Reddit comments about tightening of COVID-19 restrictions in Singapore.
+- [**wheregotcovid**](https://wheregotcovid.herokuapp.com/): Interactive R Shiny web app displaying maps and data of public places visited by COVID-19 cases in Singapore in June 2021.    
