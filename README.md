@@ -1,12 +1,11 @@
 # About Me 👋    
 
-Hi, I'm a graduate student in social data science. My coursework focuses on Natural Language Processing, Machine Learning/Deep Learning, data analysis and databases. I am particularly interested in the application of Data Science to social policy areas like healthcare and education.
+Hi, I am a data science graduate turned hobbyist with prior experience in geospatial analysis, Natural Language Processing, and Machine Learning/Deep Learning.
 
-- 👨🏽‍💻 Working on my thesis comparing sentiment towards COVID-19 restrictions in Singapore on Facebook vs Reddit
-- 🌱 Exploring deep learning with keras, database querying with MySQL and app development with Flask
-- 🤔 Looking for any tips on sentiment analysis with VADER or other ML models, especially for Singlish text
-- ⚡ Fun fact: I'm a competitive ballroom and latin dancer!     
-
+- 👨🏽‍💻 Finding use cases in the public sector to leverage data analytics for automation of work processes, and creation of pipelines for structured/unstructed data to generate meaningful and insightful data for public sector policymaking.
+- 🌱 Exploring Leaflet in js.
+- 🤔 Looking to hear about any experience creating data-based solutions in the public setor, particularly tips for creating data pipelines, product deployment, and nurturing a data culture.
+  
 
 # Technologies and Tools 🔧    
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
