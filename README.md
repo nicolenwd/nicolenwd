@@ -4,7 +4,7 @@ Hi, I am a data science graduate turned hobbyist with prior experience in geospa
 
 - 👨🏽‍💻 Finding use cases in the public sector to leverage data analytics for automation of work processes, and creation of pipelines for structured/unstructed data to generate meaningful and insightful data for public sector policymaking.
 - 🌱 Exploring Leaflet in js.
-- 🤔 Looking to hear about any experience creating data-based solutions in the public setor, particularly tips for creating data pipelines, product deployment, and nurturing a data culture.
+- 🤔 Looking to hear about any experience creating data-based solutions in the public sector.
   
 
 # Technologies and Tools 🔧    
